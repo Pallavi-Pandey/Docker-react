@@ -1,4 +1,4 @@
-# Docker React & Fullstack Examples
+# Docker React Examples
 
 A collection of Dockerized applications ranging from simple React projects to full MERN stacks.
 
